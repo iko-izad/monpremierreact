@@ -1,0 +1,11 @@
+.lmj-Banner {
+    background-color: #f0f8ff; /* Couleur de fond douce */
+    padding: 20px; /* Espacement intérieur */
+    text-align: center; /* Centrer le texte */
+    border-radius: 10px; /* Coins arrondis */
+}
+
+.lmj-logo {
+    width: 100px; /* Largeur de l'image */
+    height: auto; /* Hauteur automatique pour garder les proportions */
+}

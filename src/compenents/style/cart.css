@@ -1,0 +1,20 @@
+.lmj-cart {
+    background-color: #c4d135; /* Couleur de fond blanche */
+    padding: 20px; /* Espacement intérieur */
+    border: 1px solid #ccc; /* Bordure grise */
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
+
+.lmj-cart h2 {
+    color: #2c3e50; /* Couleur du titre */
+}
+
+.lmj-cart ul {
+    list-style-type: none; /* Supprimer les puces */
+    padding: 0; /* Supprimer le remplissage */
+}
+
+.lmj-cart li {
+    margin: 10px 0; /* Espacement entre les éléments de la liste */
+}
